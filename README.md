@@ -46,11 +46,11 @@ echo 'export PATH=$CONDA_PREFIX/homer/bin:$PATH' >> $CONDA_PREFIX/etc/conda/acti
 conda deactivate
 conda activate Env_Homer
 ```
-## Display all available reference genomes in HOMER
+## Step 9: Display all available reference genomes in HOMER
 ```bash
 perl configureHomer.pl -list
 ```
-## Install human genome (hg38) for our analysis
+## Step 10: Install human genome (hg38) for our analysis
 ```bash
 perl configureHomer.pl -install hg38
 ```
