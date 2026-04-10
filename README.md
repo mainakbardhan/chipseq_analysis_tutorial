@@ -1,6 +1,6 @@
 # chipseq analysis tutorial
 End-to-end ChIP-seq analysis pipeline for USF2 including alignment, peak calling, annotation, and visualization
-## 🧪 Environment Setup & Verification
+##  Environment Setup & Verification
 
 > ⚠️ Please complete this section before running the pipeline.
 
